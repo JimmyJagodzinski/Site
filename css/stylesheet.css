@@ -17,11 +17,11 @@ body {
 
 /* Style the side navigation */
 .sidenav {
-  height: 100%;
-  width: 100px;
+  height: 144px;
+  width: 80px;
   position: fixed;
   Font-Family: 'Roboto', Sans-Serif;
-  Font-Size: 16px;
+  Font-Size: 14px;
   z-index: 1;
   top: 0;
   left: 0;
